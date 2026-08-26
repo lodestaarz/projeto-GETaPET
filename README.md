@@ -1,2 +1,5 @@
-# projeto-backend-unect2
-Backend do projeto de adoção de pets (CAPACITAÇÃO UNECT)
+# projeto-GETaPET
+API de adoção de PETS (CAPACITAÇÃO UNECT)
+  - Node.Js
+  - Modelagem de Banco de dados Não relacional (MongoBD)
+  - Envio e manipulação de imagem.
